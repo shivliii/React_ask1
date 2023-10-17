@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/React_ask1/static/css/main.073c9b0a.css",
+    "main.js": "/React_ask1/static/js/main.5c6d6a2f.js",
+    "static/js/787.b755f208.chunk.js": "/React_ask1/static/js/787.b755f208.chunk.js",
+    "static/media/logo.svg": "/React_ask1/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/React_ask1/index.html",
+    "main.073c9b0a.css.map": "/React_ask1/static/css/main.073c9b0a.css.map",
+    "main.5c6d6a2f.js.map": "/React_ask1/static/js/main.5c6d6a2f.js.map",
+    "787.b755f208.chunk.js.map": "/React_ask1/static/js/787.b755f208.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.5c6d6a2f.js"
+  ]
+}
